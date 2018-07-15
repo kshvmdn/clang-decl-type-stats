@@ -1,0 +1,7 @@
+[package]
+name = "vardecl"
+version = "0.1.0"
+authors = ["Kashav Madan <kshvmdn@gmail.com>"]
+
+[dependencies]
+clang = { version = "0.20.0" }
